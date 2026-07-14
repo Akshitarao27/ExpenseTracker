@@ -252,25 +252,25 @@ VITE_API_URL=https://expense-tracker-backend-i41b.onrender.com
 
 ## 📊 Dashboard
 
-<img width="1470" alt="Dashboard" src="https://github.com/user-attachments/assets/d77c5eb2-80a3-4ffb-9b91-16982be9e6cd" />
-
 <img width="1469" alt="Dashboard Analytics" src="https://github.com/user-attachments/assets/37b6fed8-f378-438a-9b25-e44adb679de8" />
+
+<img width="1470" alt="Dashboard" src="https://github.com/user-attachments/assets/d77c5eb2-80a3-4ffb-9b91-16982be9e6cd" />
 
 ---
 
 ## 💰 Income Management
 
-<img width="1219" alt="Income" src="https://github.com/user-attachments/assets/0bc834a7-af93-4a48-a006-015618c6c2f1" />
-
 <img width="1212" alt="Add Income" src="https://github.com/user-attachments/assets/9fceb1bb-e2c5-4b59-8408-936ccf0bed06" />
+
+<img width="1219" alt="Income" src="https://github.com/user-attachments/assets/0bc834a7-af93-4a48-a006-015618c6c2f1" />
 
 ---
 
 ## 💸 Expense Management
 
-<img width="1218" alt="Expense" src="https://github.com/user-attachments/assets/58e7fd8e-1050-40f6-9836-22266efafd69" />
-
 <img width="1220" alt="Add Expense" src="https://github.com/user-attachments/assets/8defce79-d693-481a-8980-b9bb5456beea" />
+
+<img width="1218" alt="Expense" src="https://github.com/user-attachments/assets/58e7fd8e-1050-40f6-9836-22266efafd69" />
 
 ---
 
